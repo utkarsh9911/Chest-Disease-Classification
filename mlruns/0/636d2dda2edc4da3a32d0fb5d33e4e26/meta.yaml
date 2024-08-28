@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Chest-Disease-Classification/mlruns/0/636d2dda2edc4da3a32d0fb5d33e4e26/artifacts
+end_time: 1724835832810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 636d2dda2edc4da3a32d0fb5d33e4e26
+run_name: bold-mare-186
+run_uuid: 636d2dda2edc4da3a32d0fb5d33e4e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724835757575
+status: 3
+tags: []
+user_id: UTKARSH
